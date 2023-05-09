@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/atanu-barua-niloy-b0403a15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-barua-niloy-b0403a15b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12384199/atanu-barua-nilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12384199/atanu-barua-nilo" height="30" width="40" /></a>
+<a href="https://fb.com/atanu.barua.niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atanu.barua.niloy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
