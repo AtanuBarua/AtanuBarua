@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DMS**
 
-- 👨‍💻 All of my projects are available at [https://atanubarua.com/](https://atanubarua.com/)
+- 👨‍💻 My portfolio website [https://atanubarua.com/](https://atanubarua.com/)
 
 - 💬 Ask me about **Laravel, Vue**
 
