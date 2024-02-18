@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Payment Gateway Project**
 
-- 👨‍💻 My portfolio website [https://atanubarua.com/](https://atanubarua.com/)
-
 - 💬 Ask me about **Laravel, Vue**
 
 - 📫 How to reach me **atanu.barua.niloy@gmail.com**
